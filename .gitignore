@@ -1,0 +1,7 @@
+.idea/
+*.iml
+
+.venv/
+__pycache__/
+
+zip_cache.sqlite
